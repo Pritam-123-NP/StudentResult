@@ -5,7 +5,7 @@ I love noisy data😁😁
 
 ### How do I get set up? ###
 
-* Install XAMP
+* Install XAMPP
 * Add the database file 
 * And get->set go..!!
 ### contact ###
